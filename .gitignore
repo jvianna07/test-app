@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 testenv/
+env
 
 # Spyder project settings
 .spyderproject
